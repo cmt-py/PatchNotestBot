@@ -84,3 +84,11 @@ Automatically screenshots and reuploads a random NFT every 20 seconds
 You can now die by Snu Snu.
 Introducing: Taxes
 Added The Skeletor
+Changed all text font to Comic Sans
+Now available in the Bundesrepublik
+Added Drake as a playable character
+Transitioned complete game code to Python
+Added compatibility with Linux
+Added skin care products as in-game collectible items
+Revamped physics engine for 30% faster movement and much more inertia when stopping
+Added 5 minute game pause every 15 minutes to address mental health issue reports
