@@ -92,3 +92,5 @@ Added compatibility with Linux
 Added skin care products as in-game collectible items
 Revamped physics engine for 30% faster movement and much more inertia when stopping
 Added 5 minute game pause every 15 minutes to address mental health issue reports
+Removed trees due to lag issues
+Face cams are now obligatory while playing
